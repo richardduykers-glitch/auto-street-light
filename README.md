@@ -22,11 +22,12 @@ An automatic street lighting system developed using ESP32, LDR Sensor, RTC Modul
 
 ### Block Diagram
 
-![Block Diagram](block-diagram.svg)
+<img width="1440" height="1024" alt="block_diagram-auto_street_light" src="https://github.com/user-attachments/assets/b01bccd3-777e-4f18-b9fc-6ef1b199a1e1" />
+
 
 ### Wiring Diagram
 
-![Wiring Diagram](wiring.jpg)
+<img width="1047" height="437" alt="wiring-auto_street_light" src="https://github.com/user-attachments/assets/28a7a9b7-1ca2-4e4b-b199-d4d982582dd3" />
 
 ## System Workflow
 
